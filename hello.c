@@ -1,7 +1,10 @@
 #inlcude <stdio.h>
-int main(){
+int main(pe[30]){
 
-printf("Hello,World!");
+
+
+
+printf("Hello,%s",pe);
 return 0;}
 
 
